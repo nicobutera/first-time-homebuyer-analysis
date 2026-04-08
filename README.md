@@ -20,5 +20,5 @@ Identify which borrower and loan factors are associated with first-time homebuye
 ## Files
 - [report/](report/) - Final report (PDF)
   - [Final report (PDF)](report/Marketing_Analytics_Project.pdf)
-- [code/](code/) - R script used for analysis
+- [code/](code/marketing_analytics_project.R) - R script used for analysis
 - [figures/](figures/) - Plots used in the report
