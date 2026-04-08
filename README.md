@@ -18,6 +18,6 @@ Identify which borrower and loan factors are associated with first-time homebuye
 - Key drivers: note rate, mortgage type (FHA/USDA/VA vs conventional), loan purpose (purchase vs refi)
 
 ## Files
-- `report/` Final report (PDF)
+- [report/](report/) - Final report (PDF)
 - `code/` R script used for analysis
 - `figures/` Plots used in the report
